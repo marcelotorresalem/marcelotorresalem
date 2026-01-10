@@ -11,5 +11,8 @@ Welcome to my portfolio! I am a Geographer specializing in transforming complex 
 **Technical Design:** AutoCAD (Digital drafting and CAD-to-GIS integration)
 
 ### Proyects
-1. [**Voting behavior in León, Gto**](Comportamiento%20del%20voto%20en%20Le%C3%B3n.jpeg)<br>
-Una breve descripcion <br>
+1. [**Voting behavior in León, Guanajuato**](Comportamiento%20del%20voto%20en%20Le%C3%B3n.jpeg)<br>
+Analysis of voting patterns for most popular party's deputees in the city of León<br>
+
+2. [**Arcticle for Animal Político**](https://animalpolitico.com/analisis/organizaciones/una-vida-examinada-reflexiones-bioeticas/elefantes-transicion-economica-tailandia)<br>
+Arcticle about implications of Thai's economical transition for elephants<br>
