@@ -13,5 +13,3 @@ Welcome to my portfolio! I am a Geographer specializing in transforming complex 
 ### Proyects
 1. [**Voting behavior in León, Gto**](Comportamiento%20del%20voto%20en%20Le%C3%B3n.jpeg)<br>
 Una breve descripcion <br>
-
-2. 
